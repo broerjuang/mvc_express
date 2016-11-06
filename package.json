@@ -1,0 +1,28 @@
+{
+  "name": "mvc_using_express",
+  "version": "1.0.0",
+  "description": "mvc using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broerjuang/mvc_express.git"
+  },
+  "keywords": [
+    "mvc",
+    "express",
+    "mongodb",
+    "passport",
+    "github",
+    "facebook",
+    "twitter"
+  ],
+  "author": "broerjuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/broerjuang/mvc_express/issues"
+  },
+  "homepage": "https://github.com/broerjuang/mvc_express#readme"
+}
